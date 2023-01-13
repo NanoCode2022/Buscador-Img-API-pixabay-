@@ -1,0 +1,22 @@
+
+.img{
+    height: 60%;
+    width: 100%;
+}
+
+.info{
+    color: #ddeeff;
+}
+.container_link{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.link_img{
+    background-color: #8f8f8f;
+    padding: 4px;
+    border: 1px solid black;
+    text-decoration: none;
+    color: #ffffff;
+    border-radius: 8px;
+}

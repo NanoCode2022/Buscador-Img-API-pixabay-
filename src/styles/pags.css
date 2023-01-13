@@ -1,0 +1,18 @@
+.form_btn{
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.btn{
+    font-size: 30px;
+    background-color: #00154e;
+    padding: 8px;
+    border-radius: 50%;
+    border: 0;
+    color: #ccc;
+}
+
+.btn:hover{
+    color: #10cc10;
+}
